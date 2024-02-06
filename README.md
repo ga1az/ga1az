@@ -1,5 +1,6 @@
-<p align="center">
-    <img src="https://media3.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif?cid=790b761138c5806ef4194f087023d39f74eb66b4d7182e46&rid=giphy.gif"/>
-</p>
 
+### My gtihub stats
+
+<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ga1az&&show_icons=true" title="GitHub stats" alt="GitHub stats" style="width:56%;"/></a>
+<a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ga1az&layout=compact" title="GitHub laguage" alt="GitHub laguage" style="width:43%;"/><a/>
 
